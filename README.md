@@ -4,6 +4,8 @@
 
 ***It is a Google Earth Engine code to learn how to access and process NO data from TROPOMI Sentinel 5 sensor:***
 
+***To access the GEE JavaScript code console: https://code.earthengine.google.com/***
+
 
 ***Some References:***<br>
 https://directory.eoportal.org/web/eoportal/satellite-missions/c-missions/copernicus-sentinel-5p
