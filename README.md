@@ -3,6 +3,24 @@
 ***This repository is aimed to help the students that attended the Geomundus 2020 NO2 mapping workshop***
 
 ***It is a Google Earth Engine code to learn how to access and process NO data from TROPOMI Sentinel 5 sensor:***
+
+
+***Some References:***<br>
+https://directory.eoportal.org/web/eoportal/satellite-missions/c-missions/copernicus-sentinel-5p
+
+https://www.bloomberg.com/graphics/2020-how-coronavirus-impacts-climate-change/
+
+https://www.thelancet.com/journals/lanplh/article/PIIS2542-5196(20)30107-8/fulltext
+
+https://esamultimedia.esa.int/multimedia/publications/BR-319/BR319.pdf
+
+https://www.who.int/news-room/fact-sheets/detail/ambient-(outdoor)-air-quality-and-health
+
+https://www.nasa.gov/feature/goddard/2020/nasa-model-reveals-how-much-covid-related-pollution-levels-deviated-from-the-norm
+
+https://earthobservatory.nasa.gov/images/146362/airborne-nitrogen-dioxide-plummets-over-china
+
+https://gmao.gsfc.nasa.gov/research/science_snapshots/2020/air_pollution_COVID-19.php
 __________________________________________________________________________________________________________________________________
 
 **The example regions that we are going to use in the exercise**
